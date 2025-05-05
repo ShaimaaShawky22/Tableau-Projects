@@ -98,22 +98,17 @@ Tables used include: Sales, Customers, Products, Promotions, and Currency inform
 ## 📸 Dashboard Screenshots
 
 ### 1. Overview Page  
-Shows internet sales performance summary and key metrics.  
 ![Overview](images/overview.png)
 
 ### 2. Customer Analysis Page  
-Analyzes customer demographics and product preferences.  
 ![Customer Analysis](images/customer_analysis.png)
 
 ### 3. Product Analysis Page  
-Displays product sales trends and quantities sold.  
 ![Product Analysis](images/product_analysis.png)
 
 ### 4. Currency Analysis Page  
-Highlights sales and profit trends by currency.  
 ![Currency Analysis](images/currency_analysis.png)
 
 ### 5. Promotion Analysis Page  
-Reviews the impact of promotions on sales and profit.  
 ![Promotion Analysis](images/promotion_analysis.png)
 
