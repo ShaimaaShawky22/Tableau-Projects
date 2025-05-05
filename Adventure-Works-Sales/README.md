@@ -1,4 +1,4 @@
-# Adventure Works Internet Sales Dashboard (Tableau Project)
+# Adventure Works Internet Sales Dashboard
 
 This project is an interactive sales dashboard built using *Tableau* with data sourced from Microsoft's Adventure Works dataset. The goal is to provide business insights regarding internet sales performance, customer demographics, product sales trends, currency analysis, and the effectiveness of promotions.
 
@@ -9,7 +9,7 @@ This project is an interactive sales dashboard built using *Tableau* with data s
 - Forecast sales trends and evaluate promotion effectiveness.
 
 ## Dataset
-The data used in this project comes from the *Adventure Works DW* database, covering the period from 2010 to 2015.  
+The data used in this project comes from the *Adventure Works DW*.  
 Tables used include: Sales, Customers, Products, Promotions, and Currency information.
 
 ---
