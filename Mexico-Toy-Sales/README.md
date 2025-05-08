@@ -77,10 +77,10 @@ Each dashboard enables dynamic filtering and drilling down into key metrics.
 ## 📸 Screenshots
 
 ### Overview Dashboard
-![Overview Screenshot](screenshots/overview1.png)
+![Overview Screenshot](images/overview1.png)
 
 ### Product Analysis Dashboard
-![Product Analysis Screenshot](screenshots/product_analysis1.png)
+![Product Analysis Screenshot](images/product_analysis1.png)
 
 ### Store Analysis Dashboard
-![Store Analysis Screenshot](screenshots/store_analysis.png)
+![Store Analysis Screenshot](images/store_analysis.png)
